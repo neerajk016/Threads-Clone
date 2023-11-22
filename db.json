@@ -1,0 +1,208 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_uuid": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "username": "Code with ania kubow",
+      "handle": "aniakobow",
+      "bio": "i make youtube videos",
+      "link": "https://in.linkedin.com/",
+      "img": "https://i.imgur.com/w7KOHJD.jpg",
+      "instagram_url": "https://www.instagram.com/",
+      "folllowers": [
+        {
+          "user_uuid": "70cb2614-fd26-464d-a120-4ce638ba94ae"
+        },
+        {
+          "user_uuid": "7941dc89-e6af-444c-a7f2-9824af4ff37a"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user_uuid": "70cb2614-fd26-464d-a120-4ce638ba94ae",
+      "username": "bobby",
+      "handle": "bobbybrigers",
+      "bio": "i make burgers",
+      "link": "https://in.linkedin.com/",
+      "img": "https://imgur.com/gallery/Ps9C725",
+      "instagram_url": "https://www.instagram.com/",
+      "folllowers": [
+        {
+          "user_uuid": "c2d47d86-1c90-4369-803b-23b9fd032dae"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "user_uuid": "7941dc89-e6af-444c-a7f2-9824af4ff37a",
+      "username": "ania talli",
+      "handle": "truth slayer",
+      "bio": "just a pnk eprsn",
+      "link": "https://in.linkedin.com/",
+      "img": "https://imgur.com/gallery/gvOpdAv",
+      "instagram_url": "https://www.instagram.com/",
+      "folllowers": [
+        {
+          "user_uuid": "c2d47d86-1c90-4369-803b-23b9fd032dae"
+        }
+      ]
+    }
+  ],
+  "threads": [
+    {
+      "id": 1,
+      "timestamp": "Wed Jul 26 2023 07:03:17 GMT-0700 (Pacific Daylight Time)",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "hello threads",
+      "likes": [
+        {
+          "uuid": "7941dc89-e6af-444c-a7f2-9824af4ff37a"
+        },
+        {
+          "uuid": "70cb2614-fd26-464d-a120-4ce638ba94ae"
+        },
+        {
+          "user_uuid": "c2d47d86-1c90-4369-803b-23b9fd032dae"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "timestamp": "Wed Jul 26 2023 07:50:17 GMT-0700 (Pacific Daylight Time)",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "another one",
+      "likes": []
+    },
+    {
+      "id": 3,
+      "timestamp": "Wed Jul 26 2023 07:53:17 GMT-0700 (Pacific Daylight Time)",
+      "thread_from": "70cb2614-fd26-464d-a120-4ce638ba94ae",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "excited to have launchs",
+      "likes": []
+    },
+    {
+      "id": 4,
+      "timestamp": "Wed Jul 26 2023 08:53:17 GMT-0700 (Pacific Daylight Time)",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "70cb2614-fd26-464d-a120-4ce638ba94ae",
+      "reply_to": 3,
+      "text": "fcuk ",
+      "likes": []
+    },
+    {
+      "id": 5,
+      "timestamp": "Wed Jul 26 2023 20:53:17 GMT-0700 (Pacific Daylight Time)",
+      "thread_from": "70cb2614-fd26-464d-a120-4ce638ba94ae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": 0,
+      "text": "fucking ",
+      "likes": []
+    },
+    {
+      "timestamp": "2023-07-29T17:09:57.197Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": null,
+      "text": "nv",
+      "likes": [],
+      "id": 6
+    },
+    {
+      "timestamp": "2023-07-29T17:10:35.445Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": 6,
+      "text": "nerah",
+      "likes": [],
+      "id": 7
+    },
+    {
+      "timestamp": "2023-07-29T17:15:46.868Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": null,
+      "text": "dsdfs",
+      "likes": [],
+      "id": 8
+    },
+    {
+      "timestamp": "2023-07-29T17:19:17.884Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": 8,
+      "text": "i love u",
+      "likes": [],
+      "id": 9
+    },
+    {
+      "timestamp": "2023-07-29T17:21:33.485Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": 8,
+      "text": "iam neeraj stark",
+      "likes": [],
+      "id": 10
+    },
+    {
+      "timestamp": "2023-07-29T17:21:54.177Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": null,
+      "text": "iamneerah",
+      "likes": [],
+      "id": 11
+    },
+    {
+      "timestamp": "2023-07-29T17:24:47.468Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": null,
+      "text": "1",
+      "likes": [],
+      "id": 12
+    },
+    {
+      "timestamp": "2023-07-29T17:24:52.508Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": 12,
+      "text": "2",
+      "likes": [],
+      "id": 13
+    },
+    {
+      "timestamp": "2023-07-29T17:24:55.076Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": 12,
+      "text": "3",
+      "likes": [],
+      "id": 14
+    },
+    {
+      "timestamp": "2023-07-29T17:24:56.444Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": 12,
+      "text": "4",
+      "likes": [],
+      "id": 15
+    },
+    {
+      "timestamp": "2023-07-29T17:25:14.492Z",
+      "thread_from": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "thread_to": "c2d47d86-1c90-4369-803b-23b9fd032dae",
+      "reply_to": 12,
+      "text": "5",
+      "likes": [],
+      "id": 16
+    }
+  ]
+}
